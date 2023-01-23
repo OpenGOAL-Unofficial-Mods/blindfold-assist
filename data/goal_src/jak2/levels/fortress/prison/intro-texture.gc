@@ -1,0 +1,12 @@
+;;-*-Lisp-*-
+(in-package goal)
+
+;; name: intro-texture.gc
+;; name in dgo: intro-texture
+;; dgos: PRI
+
+;; DECOMP BEGINS
+
+(defun set-jakb-prison-texture-morph! ((a int))
+  (none)
+  )

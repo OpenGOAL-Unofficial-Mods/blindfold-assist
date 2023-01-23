@@ -1,0 +1,13 @@
+;;-*-Lisp-*-
+(in-package goal)
+
+;; name: fordumpa-texture.gc
+;; name in dgo: fordumpa-texture
+;; dgos: FORDUMPC, FDA
+
+;; TODO - temporary stub
+(defun set-roboscreen-alpha! ((arg0 float))
+  (none))
+
+;; DECOMP BEGINS
+
